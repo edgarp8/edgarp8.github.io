@@ -10,7 +10,7 @@ My GitHub page is http://github.com/edgarp8.
 
 * Lab 1
 Lab 1, part 1
-This lab signaled the start of my programming adventure. I found it enjoyable thanks to my supportive partner, who helped me get through this lab as kit was my first time coding. It laid the foundation for the essential knowledge I applied in subsequent labs.
+This lab signaled the start of my programming adventure. I found it enjoyable thanks to my supportive partner, who helped me get through this lab as it was my first time coding. It laid the foundation for the essential knowledge I applied in subsequent labs.
 
 * Lab 4
 Lab 4, part 2
